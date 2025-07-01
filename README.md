@@ -79,40 +79,12 @@ I find debugging code surprisingly fun — it's like solving a mystery! 🔍
 
 ## 💻 Most Used Languages</h2>
 
-<div align="center">
+<h2 align="center"></h2>
 
-<table>
-  <thead>
-    <tr>
-      <th>Language</th>
-      <th>Skill Icon</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">C</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=c" /></td>
-    </tr>
-    <tr>
-      <td align="center">C++</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=cpp" /></td>
-    </tr>
-    <tr>
-      <td align="center">Python</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=python" /></td>
-    </tr>
-    <tr>
-      <td align="center">HTML</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=html" /></td>
-    </tr>
-    <tr>
-      <td align="center">CSS</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=css" /></td>
-    </tr>
-  </tbody>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzzzz-g&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" />
+</p>
 
-</div>
 
 
 ---
