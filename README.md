@@ -1,4 +1,62 @@
-## Hi there 👋
+## Hi there, I'm Sanchi Goyal 👋
+
+✨ Welcome to my GitHub profile! ✨  
+I'm passionate about solving problems with code and always exploring new technologies.
+
+---
+
+### 🔭 I’m currently working on:
+- Academic and personal projects in Python, C++, and MATLAB
+- Learning Java and building small Java apps
+- Strengthening my frontend skills with HTML and CSS
+
+### 🌱 I’m currently learning:
+- Java programming and OOP concepts
+- Advanced C++ and data structures
+- Git, GitHub, and collaborative workflows
+
+### 🤝 I’m looking to collaborate on:
+- Beginner to intermediate level projects in Python or C++
+- Academic or research-based programming tasks
+- Hackathons or coding challenges
+
+### 💬 Ask me about:
+- C, C++, Python, MATLAB basics
+- HTML and CSS for static websites
+- How to get started with coding as a student
+
+### 📫 How to reach me:
+- 📧 Email: [your-email@example.com]
+- 💼 LinkedIn: [linkedin.com/in/yourprofile] *(optional)*
+
+### 😄 Pronouns:
+He/Him *(or update as preferred)*
+
+### ⚡ Fun fact:
+I find debugging code surprisingly fun — it's like solving a mystery! 🔍
+
+---
+
+## 🧰 Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Sanzzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanzzzz-g&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanzzzz-g&layout=compact)
+
+---
+
+## 🐍 GitHub Contribution Snake
+![snake gif](https://github.com/sanzzzz-g/sanzzzz-g/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **sanzzzz-g/sanzzzz-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
