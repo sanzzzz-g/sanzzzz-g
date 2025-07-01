@@ -35,10 +35,21 @@ I'm passionate about solving problems with code and always exploring new technol
 
 ---
 
-## 📫 How to reach me:
-- 📧 **Email:** [gsanchi21@gmail.com](mailto:gsanchi21@gmail.com)  
-- 💼 **LinkedIn:** [sanchi-goyal-279534321](https://www.linkedin.com/in/sanchi-goyal-279534321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- 📸 **Instagram:** [@sanchiiii.21](https://www.instagram.com/sanchiiii.21?igsh=MXZsMDZ4ZTMwZmN2dQ==)
+
+## Reach Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanchi-goyal-279534321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/sanchiiii.21?igsh=MXZsMDZ4ZTMwZmN2dQ==" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://share.google/TMS9zoqcxM3ZaDIte" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
 
 ---
 
