@@ -1,4 +1,13 @@
-## Hi there, I'm Sanchi Goyal 👋
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://github.com/sanzzzz-g/sanzzzz-g/blob/main/banner.jpg" alt="Banner" />
+</p>
+
+<h1 align="center">Hi 👋, I'm SANCHI GOYAL</h1>
+<h3 align="center">Aspiring Developer | Curious Mind | Code Explorer</h3>
+
+---
+
 
 ✨ Welcome to my GitHub profile! ✨  
 I'm passionate about solving problems with code and always exploring new technologies.
@@ -45,16 +54,38 @@ I find debugging code surprisingly fun — it's like solving a mystery! 🔍
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ---
+### 🏆 GitHub Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=sanzzzz-g&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 ## 📊 GitHub Stats
 
 ![Sanzzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanzzzz-g&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanzzzz-g&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanzzzz-g&layout=compact&theme=algolia)
 
 ---
 
+### 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanzzzz-g&theme=github-compact)
+
+---
+
+### 👁️ Visitors Count
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=sanzzzz-g&style=flat-square)
+
 ## 🐍 GitHub Contribution Snake
 ![snake gif](https://github.com/sanzzzz-g/sanzzzz-g/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <em>"Code with heart. Build with purpose."</em>
+</p>
 
 <!--
 **sanzzzz-g/sanzzzz-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
