@@ -136,8 +136,9 @@ I find debugging code surprisingly fun — it's like solving a mystery! 🔍
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/sanzzzz-g/sanzzzz-g/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/sanzzzz-g/sanzzzz-g/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
