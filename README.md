@@ -26,11 +26,9 @@ I'm passionate about solving problems with code and always exploring new technol
 - How to get started with coding as a student
 
 ### 📫 How to reach me:
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/yourprofile] *(optional)*
-
-### 😄 Pronouns:
-He/Him *(or update as preferred)*
+- 📧 Email: gsanchi21@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/sanchi-goyal-279534321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 🌈 Instagram: https://www.instagram.com/sanchiiii.21?igsh=MXZsMDZ4ZTMwZmN2dQ==
 
 ### ⚡ Fun fact:
 I find debugging code surprisingly fun — it's like solving a mystery! 🔍
