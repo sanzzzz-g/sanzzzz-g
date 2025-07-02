@@ -58,10 +58,10 @@ I'm passionate about solving problems with code and always exploring new technol
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" alt="Gmail"/>
   </a>
   <a href="https://substack.com/@sanchigoyal?utm_source=share&utm_medium=android&r=4uxspt" target="_blank">
-  <img src="https://github.com/sanzzzz-g/sanzzzz-g/blob/main/images.png?raw=true" alt="Substack" width="40" height="40" />
+  <img src="https://github.com/sanzzzz-g/sanzzzz-g/blob/main/images.png?raw=true" alt="Substack" width="37" height="37" />
 </a>
 <a href="https://x.com/Sanzzzz_g?t=yEu473-84MceMLzPTiCJoQ&s=09" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/x.png" alt="X (Twitter)" width="40" height="40" />
+    <img src="https://img.icons8.com/ios-filled/50/x.png" alt="X (Twitter)" width="37" height="37" />
   </a>
   
 </p>
