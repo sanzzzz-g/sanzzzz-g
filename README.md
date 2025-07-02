@@ -57,6 +57,10 @@ I'm passionate about solving problems with code and always exploring new technol
   <a href="https://share.google/TMS9zoqcxM3ZaDIte" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" alt="Gmail"/>
   </a>
+  <a href="https://substack.com/@sanchigoyal?utm_source=share&utm_medium=android&r=4uxspt" target="_blank">
+  <img src="https://github.com/sanzzzz-g/sanzzzz-g/blob/main/images.png?raw=true" alt="Substack" width="40" height="40" />
+</a>
+  
 </p>
 
 
