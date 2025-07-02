@@ -1,7 +1,9 @@
 <!-- Banner Image -->
+
 <p align="center">
-  <img src="https://github.com/sanzzzz-g/sanzzzz-g/blob/main/Untitled%20design.png?raw=true" alt="Banner" width="100%">
+  <img src="https://github.com/sanzzzz-g/sanzzzz-g/blob/main/Your%20paragraph%20text.png?raw=true" alt="Banner" width="100%" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm SANCHI GOYAL</h1>
 <h3 align="center">Aspiring Developer | Curious Mind | Code Explorer</h3>
