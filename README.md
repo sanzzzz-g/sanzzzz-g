@@ -38,22 +38,26 @@ I'm passionate about solving problems with code and always exploring new technol
 
 
 
-## Reach Me
+
+
+## 📬 Reach Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanchi-goyal-279534321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/sanchiiii.21?igsh=MXZsMDZ4ZTMwZmN2dQ==" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" />
-  </a>
-  <a href="https://share.google/TMS9zoqcxM3ZaDIte" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" alt="Instagram"/>
   </a>
   <a href="https://github.com/sanzzzz-g" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  </a>
+  <a href="https://share.google/TMS9zoqcxM3ZaDIte" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" alt="Gmail"/>
   </a>
 </p>
+
+
 
 
 
