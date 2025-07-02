@@ -77,7 +77,7 @@ I find debugging code surprisingly fun — it's like solving a mystery! 🔍
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Stack in Action
 
 
   
@@ -109,52 +109,14 @@ I find debugging code surprisingly fun — it's like solving a mystery! 🔍
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Milestones
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sanzzzz-g&theme=dracula" />
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanzzzz-g&show_icons=true&theme=cobalt" />
-</p>
-
-
-
-## 💻 Most Used Languages</h2>
-
-<h2 align="center"></h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzzzz-g&layout=compact&theme=cobalt&langs_count=10" alt="Top Languages" />
-  
-</p>
-
-
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanzzzz-g&theme=cobalt" />
-</p>
-
----
-
-## 👁️ Visitors Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanzzzz-g&style=flat-square" />
-</p>
-
----
-
-## 🐍 GitHub Contribution Snake
+## 🐍 Crawling Through Contributions
 
 <p align="center">
   <img src="https://github.com/sanzzzz-g/sanzzzz-g/blob/output/github-snake.svg" />
@@ -167,3 +129,38 @@ I find debugging code surprisingly fun — it's like solving a mystery! 🔍
 <p align="center">
   <em>"Code with heart. Build with purpose."</em>
 </p>
+
+
+
+
+## 📊 Development Summary
+
+<!-- Row 1: Stats and Streak -->
+<p align="center">
+  <span>
+    <img height="150em" width="400" src="https://github-readme-stats.vercel.app/api?username=sanzzzz-g&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&hide_border=false" />
+  </span>
+  <span>
+    <img height="150em" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=sanzzzz-g&theme=cobalt&hide_border=false" />
+  </span>
+</p>
+<!-- Row 2: Languages centered -->
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzzzz-g&layout=compact&theme=cobalt&hide_border=false&langs_count=8" style="width: 800px;"/>
+</p>
+
+
+---
+
+</p>
+
+---
+
+## 👁️ Visitors Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanzzzz-g&style=flat-square" />
+</p>
+
+---
+
