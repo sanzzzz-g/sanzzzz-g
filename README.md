@@ -61,7 +61,7 @@ I'm passionate about solving problems with code and always exploring new technol
   <img src="https://github.com/sanzzzz-g/sanzzzz-g/blob/main/images.png?raw=true" alt="Substack" width="40" height="40" />
 </a>
 <a href="https://x.com/Sanzzzz_g?t=yEu473-84MceMLzPTiCJoQ&s=09" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/x.png" alt="X (Twitter)" width="48" height="48" />
+    <img src="https://img.icons8.com/ios-filled/50/x.png" alt="X (Twitter)" width="40" height="40" />
   </a>
   
 </p>
