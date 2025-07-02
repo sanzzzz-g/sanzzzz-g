@@ -112,7 +112,7 @@ I find debugging code surprisingly fun — it's like solving a mystery! 🔍
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanzzzz-g&theme=algolia" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sanzzzz-g&theme=dracula" />
 </p>
 
 ---
@@ -120,7 +120,7 @@ I find debugging code surprisingly fun — it's like solving a mystery! 🔍
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanzzzz-g&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanzzzz-g&show_icons=true&theme=cobalt" />
 </p>
 
 
@@ -130,7 +130,8 @@ I find debugging code surprisingly fun — it's like solving a mystery! 🔍
 <h2 align="center"></h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzzzz-g&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzzzz-g&layout=compact&theme=cobalt&langs_count=10" alt="Top Languages" />
+  
 </p>
 
 
@@ -140,7 +141,7 @@ I find debugging code surprisingly fun — it's like solving a mystery! 🔍
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanzzzz-g&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanzzzz-g&theme=cobalt" />
 </p>
 
 ---
