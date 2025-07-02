@@ -72,10 +72,7 @@ I'm passionate about solving problems with code and always exploring new technol
 
 ---
 
-## ⚡ Fun Fact:
-I find debugging code surprisingly fun — it's like solving a mystery! 🔍
 
----
 
 ## 🧰 Stack in Action
 
