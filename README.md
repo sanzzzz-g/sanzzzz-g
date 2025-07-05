@@ -143,8 +143,9 @@ I'm passionate about solving problems with code and always exploring new technol
 </p>
 <!-- Row 2: Languages centered -->
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzzzz-g&layout=compact&theme=cobalt&hide_border=false&langs_count=8" style="width: 800px;"/>
+  <img height="160" width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzzzz-g&layout=compact&theme=cobalt&hide_border=false&langs_count=8" />
 </p>
+
 
 
 ---
