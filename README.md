@@ -153,7 +153,12 @@ I'm passionate about solving problems with code and always exploring new technol
 
 ---
 
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanzzzz-g&theme=dark&hide_border=false&area=true&point=ff9494&color=00e5ff&line=00bfff&bg_color=0d1117" />
 </p>
+
 
 ---
 
