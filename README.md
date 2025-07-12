@@ -4,8 +4,10 @@
   <img src="https://github.com/sanzzzz-g/sanzzzz-g/blob/main/Your%20paragraph%20text.png?raw=true" alt="Banner" width="100%" />
 </p>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!!+👋;+I'm+Sanchi+Goyal!+😉" />
+</h1>
 
-<h1 align="center">Hi 👋, I'm SANCHI GOYAL</h1>
 <h3 align="center">Aspiring Developer | Curious Mind | Code Explorer</h3>
 
 ---
