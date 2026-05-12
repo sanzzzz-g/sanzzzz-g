@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 
 <p align="center">
-  <img src="https://github.com/sanzzzz-g/sanzzzz-g/blob/main/Your%20paragraph%20text.png?raw=true" alt="Banner" width="100%" />
+  <img src="https://github.com/sanzzzz-g/sanzzzz-g/blob/main/Sanchi%20Goyal.png?raw=true" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">
