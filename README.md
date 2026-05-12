@@ -112,7 +112,7 @@ I'm passionate about solving problems with code and always exploring new technol
 ## 🏆 GitHub Milestones
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanzzzz-g&theme=dracula" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sanzzzz-g&theme=tokyonight" />
 </p>
 
 ---
@@ -135,19 +135,23 @@ I'm passionate about solving problems with code and always exploring new technol
 
 ## 📊 Development Summary
 
-<!-- Row 1: Stats and Streak -->
 <p align="center">
-  <span>
-    <img height="150em" width="400" src="https://github-readme-stats.vercel.app/api?username=sanzzzz-g&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&hide_border=false" />
-  </span>
-  <span>
-    <img height="150em" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=sanzzzz-g&theme=cobalt&hide_border=false" />
-  </span>
+  <img
+    height="165"
+    src="https://github-readme-stats-fast.vercel.app/api?username=sanzzzz-g&show_icons=true&theme=nightowl"
+  />
+
+  <img
+    height="165"
+    src="https://streak-stats.demolab.com?user=sanzzzz-g&theme=nightowl"
+  />
 </p>
-<!-- Row 2: Languages centered -->
 
 <p align="center">
-  <img height="160" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzzzz-g&layout=compact&theme=cobalt&hide_border=false&langs_count=8" />
+  <img
+    height="165"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sanzzzz-g&layout=compact&theme=nightowl"
+  />
 </p>
 
 
